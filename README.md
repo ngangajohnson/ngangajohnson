@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ngangajohnson
 - 👀 I’m working on something big! 
-- 🌱 I’m currently with help from docs.github.com
+- 🌱 I’m currently learning with help from docs.github.com
 - ⚡ Fun fact:The first recipe is over 4000yrs old 
 
 <!---
